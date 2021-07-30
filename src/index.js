@@ -1,12 +1,19 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+import App from './App/App';
+import 'tachyons'
+import CardList from './CardList/CardList';
+import {onboarding} from './data'
+import MyTab from './MyTab/MyTab';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <MyTab></MyTab>
+   {/* <CardList data={onboarding}></CardList> */}
   </React.StrictMode>,
   document.getElementById('root')
 );
