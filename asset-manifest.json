@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/itsmdashboard/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/itsmdashboard/static/js/main.0c2871cf.chunk.js",
+    "main.js.map": "/itsmdashboard/static/js/main.0c2871cf.chunk.js.map",
+    "runtime-main.js": "/itsmdashboard/static/js/runtime-main.93494e6c.js",
+    "runtime-main.js.map": "/itsmdashboard/static/js/runtime-main.93494e6c.js.map",
+    "static/css/2.ad0e9d2c.chunk.css": "/itsmdashboard/static/css/2.ad0e9d2c.chunk.css",
+    "static/js/2.9c2ee106.chunk.js": "/itsmdashboard/static/js/2.9c2ee106.chunk.js",
+    "static/js/2.9c2ee106.chunk.js.map": "/itsmdashboard/static/js/2.9c2ee106.chunk.js.map",
+    "static/js/3.21078916.chunk.js": "/itsmdashboard/static/js/3.21078916.chunk.js",
+    "static/js/3.21078916.chunk.js.map": "/itsmdashboard/static/js/3.21078916.chunk.js.map",
+    "index.html": "/itsmdashboard/index.html",
+    "static/css/2.ad0e9d2c.chunk.css.map": "/itsmdashboard/static/css/2.ad0e9d2c.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/itsmdashboard/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.9c2ee106.chunk.js.LICENSE.txt": "/itsmdashboard/static/js/2.9c2ee106.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93494e6c.js",
+    "static/css/2.ad0e9d2c.chunk.css",
+    "static/js/2.9c2ee106.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.0c2871cf.chunk.js"
+  ]
+}
